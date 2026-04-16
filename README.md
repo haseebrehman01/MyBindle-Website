@@ -59,21 +59,22 @@ The design emphasizes key selling points like seamless connections, privacy, rea
 
 ## 📁 Project Structure
 
-mybindle-landing-page/
-├── index.html # Main HTML file
-├── style.css # All custom styles and media queries
-├── animations.js # GSAP animation scripts and ScrollTrigger config
-├── functionality.js # Vanilla JS for "See More/Less" button and other interactions
-├── assets/ # All images, SVGs, and icons
-│ ├── Group 12.png # Logo
-│ ├── hero-image.png # Hero section illustration
-│ ├── mobiles and circle image.png
-│ ├── iPhone 14 Pro.png
-│ ├── lasy.png # Donation section character
-│ ├── Avatar.svg ... Avatar (7).svg # Testimonial avatars
-│ ├── Stroke Body (1).png # Footer phone mockup
-│ └── Group 1171274793.png
-└── README.md # Project documentation
+- MyBindle-Website/
+  - index.html (Main HTML file)
+  - style.css (All custom styles)
+  - animations.js (GSAP animations)
+  - functionality.js (See More/Less button)
+  - .gitattributes
+  - README.md
+  - assets/
+    - Group 12.png (Logo)
+    - hero-image.png (Hero illustration)
+    - mobiles and circle image.png
+    - iPhone 14 Pro.png
+    - lasy.png (Donation character)
+    - Stroke Body (1).png (Phone mockup)
+    - Group 1171274793.png
+    - Avatar.svg to Avatar (7).svg (Testimonial avatars)
 
 
 ## 🏁 Getting Started
