@@ -8,7 +8,7 @@ A modern, responsive landing page for "MyBindle" – a conceptual social network
 [![Figma Design](https://img.shields.io/badge/Figma_Design-View_File-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/2Mmz5kkDby1ZU9KqreiGYf/Test?node-id=2-537&t=vloswQmeRYXD6HUW-0)
 ---
 
-## ✨ Live Demo
+## ✨ Live Demo 
 
 Experience the live page here: **[https://mybindlewebsite.netlify.app/](https://mybindlewebsite.netlify.app/)**
 
