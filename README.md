@@ -5,8 +5,7 @@
 A modern, responsive landing page for "MyBindle" – a conceptual social networking platform. This page showcases the app's core features, user testimonials, installation steps, and a strong call to action, built with smooth animations and a clean, engaging design.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Website-FF5349?style=for-the-badge&logo=netlify&logoColor=white)](https://mybindlewebsite.netlify.app/)
-[![Figma Design](https://www.figma.com/design/2Mmz5kkDby1ZU9KqreiGYf/Test?node-id=2-537&t=vloswQmeRYXD6HUW-0)](#) *
-
+[![Figma Design](https://img.shields.io/badge/Figma_Design-View_File-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/2Mmz5kkDby1ZU9KqreiGYf/Test?node-id=2-537&t=vloswQmeRYXD6HUW-0)
 ---
 
 ## ✨ Live Demo
